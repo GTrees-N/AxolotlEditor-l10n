@@ -1,4 +1,11 @@
-Generated translations for TurboWarp
+本储存库修改自[TurboWarp/scratch-l10n](https://github.com/TurboWarp/scratch-l10n)  
+感谢伟大的开源主义。  
+本储存库也将使用MIT协议开源。  
+在此向所有做过贡献的人表达谢意。  
+
+
+
+Generated translations for AxolotlEditor
 
 The following is the original license for scratch-l10n, which we are required to retain. This is NOT the license of this project.
 
